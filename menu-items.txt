@@ -1,0 +1,9 @@
+File
+Edit
+View
+
+Model
+View
+Controller
+Submit
+Delete
